@@ -1,0 +1,52 @@
+#task-input{
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#add-task-btn{
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: white;
+}
+
+#add-task-btn:hover{
+    background-color: #45a049;
+}
+
+#add-task-btn:pressed{
+    background-color: #2c662f;
+}
+
+#delete-task-btn{
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f44336;
+    color: white;
+    margin-top: 10px;
+}
+
+#delete-task-btn:hover{
+    background-color: #f44336;
+}
+
+#delete-task-btn:pressed{
+    background-color: #d32f2f;
+}
+
+#task-list{
+    background-color: #313131;
+    border: 1px solid #ccc;
+    font-size: 18px;
+    border-radius: 5px;
+    padding: 5px;
+}
